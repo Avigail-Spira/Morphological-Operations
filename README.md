@@ -10,5 +10,5 @@ These are done to remove "salt" and "pepper" from the given image. Opening remov
 
 This project performs each of these operations and outputs the new images in the output files. 
 
-Inputs: image and structuring element
+Inputs: image and structuring element   
 I have posted 6 pairs of image and structuring element which it can be tested on. 
